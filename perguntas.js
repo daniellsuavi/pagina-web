@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Sociologia',
+    'O que é antropologia',
+    'Antropologia é o estudo da cultura na sociologia'
 )
 
 criaCartao(
@@ -17,13 +17,8 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Lingua inglesa(basico)',
+    'Como se fala almoço em Inglês?',
+    'se diz almoço em ingles dizendo lunch'
 )
 
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
-)
